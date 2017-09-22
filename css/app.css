@@ -7680,14 +7680,14 @@ em {
 
 .bar-content {
   border-color: transparent;
-  background-color: #f70;
+  background-color: #0000ff;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #fff; }
   .bar-content .title {
     color: #fff; }
   .bar-content .button {
     border-color: transparent;
-    background-color: #f70;
+    background-color: #0000ff;
     color: #fff; }
     .bar-content .button:hover {
       color: #fff;
@@ -7708,7 +7708,7 @@ em {
 
 .bar-side-menu {
   border-color: transparent;
-  background-color: #f70;
+  background-color: #0000ff;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #fff;
   height: 80px !important; }
