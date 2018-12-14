@@ -5,13 +5,13 @@
         id        = "com.itismystyle.mobilelms"
         versionCode = "20184"
         version   = "3.3.4">
-    <name>Bloom Academy</name>
+    <name>The Bloom Academy</name>
 
     <description>
         The Bloom Academy Official app
     </description>
 
-    <author href="http://thebloomacademy.co.za/" email="lester@itismystyle.com">
+    <author href="https://thebloomacademy.co.za/" email="lester@itismystyle.com">
         Lester Stoffels
     </author>
 
